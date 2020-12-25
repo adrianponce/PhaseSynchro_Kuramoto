@@ -1,0 +1,8 @@
+Codes from:
+Ponce-Alvarez et al. (2015) 
+Resting-state temporal synchronization networks emerge from connectivity topology and heterogeneity. 
+PLoS Computational Biology e1004100:
+
+Content:
+- PhaseStatistics_PLoS_share.m :  calculates the phase statistics of the fMRI data (phase locking matrix (PLV), the distribution of phase differences, the order parameter, intrinsic frequencies, etc.)
+- Kuramoto_model_share.m : models the data using the Kuramoto model (calculates the fit between the PLV given by the model vs. the empirical PLV).
